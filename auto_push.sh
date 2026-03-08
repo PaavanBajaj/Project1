@@ -6,5 +6,5 @@ while true; do
     git commit -m "auto update"
     git push
   fi
-  sleep 5
+  sleep 300
 done
