@@ -1,0 +1,119 @@
+# ================================
+# Core Numerical / Data Libraries
+# ================================
+numpy
+pandas
+scipy
+pyarrow
+fastparquet
+h5py
+
+# ================================
+# Machine Learning
+# ================================
+scikit-learn
+joblib
+imbalanced-learn
+category_encoders
+featuretools
+
+# ================================
+# Deep Learning
+# ================================
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# ================================
+# Gradient Boosting / Tabular ML
+# ================================
+xgboost
+lightgbm
+catboost
+
+# ================================
+# NLP / Transformers
+# ================================
+transformers
+tokenizers
+datasets
+nltk
+spacy
+stanza
+
+# ================================
+# Computer Vision / Image
+# ================================
+opencv-python
+Pillow
+albumentations
+
+# ================================
+# Distributed / Large Data
+# ================================
+dask
+#vaex
+
+# ================================
+# Experiment Tracking / MLOps
+# ================================
+mlflow
+wandb
+neptune-client
+
+# ================================
+# Hyperparameter Optimization
+# ================================
+optuna
+ray
+hyperopt
+
+# ================================
+# Model Explainability
+# ================================
+shap
+lime
+captum
+
+# ================================
+# Visualization
+# ================================
+matplotlib
+seaborn
+plotly
+bokeh
+
+# ================================
+# Model Serving / APIs
+# ================================
+fastapi
+flask
+uvicorn
+gunicorn
+
+# ================================
+# Cloud / Storage / Databases
+# ================================
+boto3
+google-cloud-storage
+azure-storage-blob
+sqlalchemy
+psycopg2-binary
+pymongo
+
+# ================================
+# Utilities
+# ================================
+tqdm
+psutil
+
+# ================================
+# Development / Testing
+# ================================
+pytest
+black
+isort
+pre-commit
+mypy
